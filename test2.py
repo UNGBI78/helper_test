@@ -48,3 +48,5 @@ origin : 기본적으로 설정 되어 있는 중간 경로 -> 특별히 건든�
 
 git add 로 stage(무대에 올립니다.) -> 커밋을해서 push 할 내용을 등록 합니다 -> push 통해서 github 올립니다.
 git add -> git commit -> git push
+
+이번에는 파이참 기능만을 이용해서 push 해보는 두번째 테스트 입니다.
