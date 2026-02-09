@@ -402,3 +402,5 @@
 
 def test() :
   pass
+
+print("테스트 할래요")
