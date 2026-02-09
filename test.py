@@ -399,3 +399,6 @@
 
 # A = input()
 # print(f"{A}??!")
+
+def test() :
+  pass
