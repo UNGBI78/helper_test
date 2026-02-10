@@ -6,3 +6,4 @@ class Git_Test_File():
   def git_test_checker(self):
     pass
 
+print("파이참 커밋 테스트용 코드입니다.")
