@@ -1,0 +1,6 @@
+만들어진 파일에 문장을 하나 적어보겠습니다.
+class TestfyYourCode :
+    def access_code:
+        pass
+
+어느 타이밍에서 코드를 올려서 테스트를 해본다거나 다른 팀원과 코드를 공유 하기 위해서 적당히 작업 후 push 합니다.
