@@ -11,3 +11,6 @@ class Git_Hub(object):
     else :
       print(b)
 
+class DAY_TWO_CODE(Git_Hub):
+  def git_test(self):
+    pass
