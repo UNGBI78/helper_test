@@ -6,3 +6,7 @@ def commend_check():
     print("오늘은 2026년 02월 11일 입니다.")
   else :
     print("공부 하기 싫다.")
+
+def second_check():
+  pass
+
