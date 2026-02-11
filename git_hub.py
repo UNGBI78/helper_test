@@ -14,3 +14,4 @@ class Git_Hub(object):
 class DAY_TWO_CODE(Git_Hub):
   def git_test(self):
     pass
+  (외부 라이브러리, 스크래치 및 콘솔)
