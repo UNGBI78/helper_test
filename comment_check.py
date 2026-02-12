@@ -10,3 +10,5 @@ def commend_check():
 def second_check():
   pass
 
+외부 라이브러리, 스크래치 및
+print(콘솔입니다)

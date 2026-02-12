@@ -14,3 +14,11 @@ print("오늘의 두번째 테스트 입니다.")
 
 프로젝트에 대해 구성된 파이썬 인터프리터가
 print(없습니다)
+
+def rebase_test_code():
+  if True:
+    print("1")
+  else:
+    print("2")
+
+print("리베이스 한번 더 해보겠습니다.")
